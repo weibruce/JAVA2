@@ -23,7 +23,9 @@ public class SINExample extends JFrame
     public SINExample()
     {
         final String    DRIVER = "com.mysql.jdbc.Driver",
+                        //DRIVER= "sun.jdbc.odbc.JdbcOdbcDriver",
                         URL = "jdbc:mysql://localhost:3306/JDBC?useSSL=true";
+                        //URL = "jdbc:odbc:sin2000";
                         
         try
         {
