@@ -1,7 +1,0 @@
-John,Doe,633693890,37
-Hulk,Hogan,898765456,80
-Nola,Canola,986545678,46
-Honey,Brown,987656789,34
-Sue,Anderson,934534323,22
-Amanda,Linn,957574833,21
-Richard,Richards,3242232222,67
